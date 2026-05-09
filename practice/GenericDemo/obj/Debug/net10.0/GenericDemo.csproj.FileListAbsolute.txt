@@ -1,0 +1,15 @@
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/GenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/GenericDemo.AssemblyInfoInputs.cache
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/GenericDemo.AssemblyInfo.cs
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/GenericDemo.csproj.CoreCompileInputs.cache
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/GenericDemo.sourcelink.json
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/bin/Debug/net10.0/GenericDemo
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/bin/Debug/net10.0/GenericDemo.deps.json
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/bin/Debug/net10.0/GenericDemo.runtimeconfig.json
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/bin/Debug/net10.0/GenericDemo.dll
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/bin/Debug/net10.0/GenericDemo.pdb
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/GenericDemo.dll
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/refint/GenericDemo.dll
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/GenericDemo.pdb
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/GenericDemo.genruntimeconfig.cache
+/Users/dhanushkeloth/c-sharp-practice/practice/GenericDemo/obj/Debug/net10.0/ref/GenericDemo.dll

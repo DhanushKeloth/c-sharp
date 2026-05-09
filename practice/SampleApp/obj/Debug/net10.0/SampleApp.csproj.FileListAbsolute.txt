@@ -1,0 +1,15 @@
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/bin/Debug/net10.0/SampleApp
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/bin/Debug/net10.0/SampleApp.deps.json
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/bin/Debug/net10.0/SampleApp.runtimeconfig.json
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/bin/Debug/net10.0/SampleApp.dll
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/bin/Debug/net10.0/SampleApp.pdb
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/SampleApp.AssemblyInfoInputs.cache
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/SampleApp.AssemblyInfo.cs
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/SampleApp.csproj.CoreCompileInputs.cache
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/SampleApp.sourcelink.json
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/SampleApp.dll
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/refint/SampleApp.dll
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/SampleApp.pdb
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/SampleApp.genruntimeconfig.cache
+/Users/dhanushkeloth/c-sharp-practice/practice/SampleApp/obj/Debug/net10.0/ref/SampleApp.dll

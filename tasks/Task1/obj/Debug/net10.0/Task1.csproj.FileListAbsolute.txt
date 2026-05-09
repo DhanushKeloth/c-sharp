@@ -1,0 +1,15 @@
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/bin/Debug/net10.0/Task1
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/bin/Debug/net10.0/Task1.deps.json
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/bin/Debug/net10.0/Task1.runtimeconfig.json
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/bin/Debug/net10.0/Task1.dll
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/bin/Debug/net10.0/Task1.pdb
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/Task1.AssemblyInfoInputs.cache
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/Task1.AssemblyInfo.cs
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/Task1.csproj.CoreCompileInputs.cache
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/Task1.sourcelink.json
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/Task1.dll
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/refint/Task1.dll
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/Task1.pdb
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/Task1.genruntimeconfig.cache
+/Users/dhanushkeloth/c-sharp-practice/tasks/Task1/obj/Debug/net10.0/ref/Task1.dll
