@@ -1,36 +1,27 @@
-﻿using System.ComponentModel;
-using System.Reflection.Metadata.Ecma335;
-
-class Program
+﻿class Program
 {
-
-    public delegate bool Paymentmethod(int amount);
-    public static void Getpayment(int amount,Paymentmethod pm)
-    {
-        bool paymentstatus = pm(amount);
-        if(paymentstatus) Console.WriteLine("payment is success");
-        else Console.WriteLine("payment is failed due to error");
-    }
-
-    public delegate int Operationdel(int a,int b);
-    public static void Calc(int a,int b,Operationdel op)
-    {
-        int result =op(a,b);
-        Console.WriteLine("result is "+result);
-    }
-    public static int Add(int a,int b)=>a+b;
-
     static void Main(string[] args)
     {
-        Getpayment(100,(int amount)=> {
-            Console.WriteLine("payment amount is with credit card"+amount);
-            return true;
-            });
-        Getpayment(200,(int amount)=> {
-            Console.WriteLine("payment amount is with debit card"+amount);
-            return true;
-            });
+        List<Student> students = new List<Student>
+        {
+                new Student { Name = "Dhanush", Age = 20, Grade = 88.5 },
+                new Student { Name = "Bob", Age = 22, Grade = 72.0 },
+                new Student { Name = "Charlie", Age = 19, Grade = 95.0 },
+                new Student { Name = "Diana", Age = 21, Grade = 82.5 },
+                new Student { Name = "Ethan", Age = 20, Grade = 65.0 }
+        };
 
-        // Calc(10,20,(int a,int b)=>a*b);
+        var filteredstudents = students.Where(s=>s.Grade>80);
+        Console.WriteLine("top students are");
+        foreach(var res in filteredstudents)
+        {
+            Console.WriteLine($"{res}");
+        }
+        var sortedlist = filteredstudents.OrderBy(s=>s.Name).ThenBy(s=>s.Grade);
+        Console.WriteLine("sorted results");
+        foreach(var res in sortedlist)
+        {
+            Console.WriteLine($"{res}");
+        }
     }
 }
