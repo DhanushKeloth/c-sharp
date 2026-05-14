@@ -1,0 +1,5 @@
+--- Simple File Report ---
+File Name: data.txt
+Lines:     4
+Words:     9
+--------------------------
